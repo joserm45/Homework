@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\usuario\documents\visual studio 2015\projects\numbers\numbers\main.c(8): warning C4477: 'scanf_s' : la cadena de formato '%i' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo 'int'
+  Numbers.vcxproj -> c:\users\usuario\documents\visual studio 2015\Projects\Numbers\x64\Debug\Numbers.exe
+  Numbers.vcxproj -> c:\users\usuario\documents\visual studio 2015\Projects\Numbers\x64\Debug\Numbers.pdb (Partial PDB)

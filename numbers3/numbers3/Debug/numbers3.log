@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\usuario\documents\visual studio 2015\projects\numbers3\numbers3\main.cpp(19): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+  c:\users\usuario\documents\visual studio 2015\projects\numbers3\numbers3\main.cpp(19): note: los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+  c:\users\usuario\documents\visual studio 2015\projects\numbers3\numbers3\main.cpp(19): note: el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+  c:\users\usuario\documents\visual studio 2015\projects\numbers3\numbers3\main.cpp(19): note: este argumento se utiliza como un tamaño de búfer
+  numbers3.vcxproj -> c:\users\usuario\documents\visual studio 2015\Projects\numbers3\Debug\numbers3.exe
+  numbers3.vcxproj -> c:\users\usuario\documents\visual studio 2015\Projects\numbers3\Debug\numbers3.pdb (Partial PDB)
